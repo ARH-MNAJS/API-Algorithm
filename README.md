@@ -2,6 +2,8 @@
 
 # Google-Sheets-as-a-Database
 
+## About the Repo
+
 Google Sheets as a Database allows you to store, retrieve, and manipulate data using Google Sheets as the backend storage. This is particularly useful for small to medium-sized projects where a full-fledged database system might be overkill. It's also a convenient option for projects that require collaboration and data sharing within a team.
 
 ## Usage
